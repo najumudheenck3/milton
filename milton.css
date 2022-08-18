@@ -1,0 +1,84 @@
+body{
+    font-family: "Avenir-Book";
+}
+.tiffin:hover{
+    cursor: pointer;
+   background-image: url(milton.image/tiffin1.png);
+   background-size: 100% 100%;
+}
+.tiffin{
+    background-image: url(milton.image/tiffins_home-banner\ \(1\).jpg);
+    background-size: 100% 100%;
+}
+
+/* .cassroles:hover{
+    cursor: pointer;
+   background-image: url(milton.image/cassroles1.png);
+   background-size: 100% 100%;
+}
+.cassroles{
+    background-image: url(milton.image/casserole_homepage.jpg);
+    background-size: 100% 100%;
+}
+
+.homeessential:hover{
+    cursor: pointer;
+   background-image: url(milton.image/homeessentila.png);
+   background-size: 100% 100%;
+}
+.homeessential{
+    background-image: url(milton.image/home-essential_home-banner.jpg);
+    background-size: 100% 100%;
+} */
+
+.last33{
+    color: #6a6a6a;
+}
+.last33:hover{
+    color:#ea2127;
+}
+.headlast{
+    font-size: large;
+    font-weight: bold;
+    color: #5A5A5A;
+    
+}
+.headlast:hover{
+    color: #ea2127;
+}
+.npo{
+    background-color:#F5F5F5;
+    width: 25em;
+    height: 26em;
+}
+.nbd{
+    height: 8%;
+    width: 67%;
+    border: none;
+}
+.nbt{
+    height: 8%;
+    width: 31%;
+    border: none;
+    background-color: #ea2127;
+    color: #fff;
+}
+.nbt:hover{
+    background-color: #3c3c3b;
+}
+.last34{
+    color: #3c3c3b;
+}
+.nbtt{
+  color: #ea2127;
+}
+.nbtt:hover{
+       
+}
+.last35{
+    text-decoration: none;
+    color: #6a6a6a;
+}
+.last35:hover{
+    color: #ea2127;
+}
