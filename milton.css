@@ -11,6 +11,10 @@ body{
     background-size: 100% 100%;
 }
 
+.bkd:hover{
+    background-color: #ea2127;
+}
+
 /* .cassroles:hover{
     cursor: pointer;
    background-image: url(milton.image/cassroles1.png);
